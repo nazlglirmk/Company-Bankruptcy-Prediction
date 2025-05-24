@@ -54,4 +54,11 @@ Bu proje, özellikle bankacılık ve kredi riski analizleri gibi alanlarda kulla
 - Model web arayüzü (Flask, Streamlit) ile sunulabilir.
 
 
+##  Veri Seti Kaynağı
+
+Bu projede kullanılan veri seti Kaggle üzerinden temin edilmiştir:
+
+🔗 [Company Bankruptcy Prediction - Kaggle Dataset](https://www.kaggle.com/datasets/fedesoriano/company-bankruptcy-prediction)
+
+
 
